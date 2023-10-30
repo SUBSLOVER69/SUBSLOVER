@@ -1,0 +1,317 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: 
+ScriptType: v4.00+
+PlayDepth: 0
+ScaledBorderAndShadow: Yes
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,75.0,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:16.41,0:00:21.56,Default,,0,0,0,,It's very difficult to explain the role\Nin one word, but I played a woman
+Dialogue: 0,0:00:21.59,0:00:27.32,Default,,0,0,0,,named Kei, but she's a vampire, and\Nthis time there are two types of vampires.
+Dialogue: 0,0:00:28.24,0:00:33.68,Default,,0,0,0,,A new vampire called Neo\NVampire and an old vampire.
+Dialogue: 0,0:00:33.70,0:00:37.69,Default,,0,0,0,,It's a story where the\Ntwo are in conflict, but I'm
+Dialogue: 0,0:00:37.71,0:00:41.70,Default,,0,0,0,,a vampire from the beginning,\Nand I'm a strong woman.
+Dialogue: 0,0:00:46.38,0:00:47.90,Default,,0,0,0,,It's very difficult to explain.
+Dialogue: 0,0:00:49.14,0:00:52.70,Default,,0,0,0,,I'll say one more thing, but Japanese\Npeople mix Dracula and vampires.
+Dialogue: 0,0:00:52.64,0:00:55.81,Default,,0,0,0,,{\c&H0606B1&}{\pos(572,770)}{\i1}{\b1}{\an8}Director Sion Sono
+Dialogue: -1,0:00:53.76,0:00:54.30,Default,,0,0,0,,That's right.
+Dialogue: 0,0:00:54.68,0:00:57.34,Default,,0,0,0,,I didn't know that Dracula and\Nvampires were completely different.
+Dialogue: 0,0:00:57.36,0:01:01.28,Default,,0,0,0,,I didn't know that Dracula and\Nvampires were completely different.
+Dialogue: 0,0:01:01.30,0:01:04.57,Default,,0,0,0,,Not all people in Sengoku\Nera say Oda Nobunaga,
+Dialogue: 0,0:01:04.59,0:01:08.22,Default,,0,0,0,,but people in Oda Nobunaga\Nsay Dracula is Dracula.
+Dialogue: 0,0:01:09.16,0:01:10.16,Default,,0,0,0,,So Dracula is a family.
+Dialogue: 0,0:01:11.62,0:01:17.64,Default,,0,0,0,,It's different from a normal vampire, so\Nit's not well known that heroes are right.
+Dialogue: 0,0:01:21.12,0:01:22.12,Default,,0,0,0,,That's right.
+Dialogue: 0,0:01:22.81,0:01:25.00,Default,,0,0,0,,Dracula is completely\Ndifferent from vampires.
+Dialogue: 0,0:01:27.97,0:01:28.97,Default,,0,0,0,,Heroes are right.
+Dialogue: 0,0:01:29.62,0:01:31.66,Default,,0,0,0,,I'm a vampire, not a Dracula.
+Dialogue: 0,0:01:32.22,0:01:33.50,Default,,0,0,0,,I'm going to fight.
+Dialogue: 0,0:01:35.81,0:01:37.54,Default,,0,0,0,,ABB, count 23.
+Dialogue: 0,0:01:38.46,0:01:39.08,Default,,0,0,0,,Onward!
+Dialogue: 0,0:01:39.20,0:01:40.20,Default,,0,0,0,,Onward!
+Dialogue: 0,0:01:41.30,0:01:42.30,Default,,0,0,0,,Ready!
+Dialogue: 0,0:01:43.79,0:01:44.79,Default,,0,0,0,,Start!
+Dialogue: 0,0:01:55.90,0:01:56.99,Default,,0,0,0,,ABB.
+Dialogue: 0,0:01:57.01,0:01:58.01,Default,,0,0,0,,Check!
+Dialogue: 0,0:01:58.11,0:02:00.63,Default,,0,0,0,,This is the Tokyo Vampire Hotel.
+Dialogue: 0,0:02:01.77,0:02:02.91,Default,,0,0,0,,Nice to meet you.
+Dialogue: 0,0:02:03.43,0:02:05.13,Default,,0,0,0,,I'm Yami Tomita, and I play Manami.
+Dialogue: 0,0:02:05.15,0:02:06.15,Default,,0,0,0,,Nice to meet you.
+Dialogue: 0,0:02:08.55,0:02:15.19,Default,,0,0,0,,Manami was born with a very precious blood.
+Dialogue: 0,0:02:16.75,0:02:21.15,Default,,0,0,0,,She lived as a normal girl for 21 years.
+Dialogue: 0,0:02:21.17,0:02:26.73,Default,,0,0,0,,When she turned 22, she\Nwas awakened for the first time.
+Dialogue: 0,0:02:28.35,0:02:33.17,Default,,0,0,0,,She lived as a normal girl until then, but\Nshe was suddenly told about her identity.
+Dialogue: 0,0:02:38.06,0:02:39.63,Default,,0,0,0,,She was overwhelmed by fate.
+Dialogue: 0,0:02:41.41,0:02:42.49,Default,,0,0,0,,I play Manami.
+Dialogue: 0,0:02:50.86,0:02:53.14,Default,,0,0,0,,The sky is very dangerous.
+Dialogue: 0,0:03:00.85,0:03:03.89,Default,,0,0,0,,When I went to the Fujiya Hotel last year,
+Dialogue: 0,0:03:06.23,0:03:13.47,Default,,0,0,0,,I thought it would be interesting if\Nall the hotel owners were vampires.
+Dialogue: 0,0:03:17.13,0:03:20.81,Default,,0,0,0,,After that, I was invited to\Nthe Transylvania Film Festival.
+Dialogue: 0,0:03:20.83,0:03:28.83,Default,,0,0,0,,At that time, I tried to do all\Nthe films I had done so far.
+Dialogue: 0,0:03:30.37,0:03:34.23,Default,,0,0,0,,At that time, I loved Dracula.
+Dialogue: 0,0:03:35.81,0:03:41.39,Default,,0,0,0,,All the places in Transylvania that\Nwere related to Dracula were filmed.
+Dialogue: 0,0:03:41.91,0:03:44.05,Default,,0,0,0,,It wasn't filmed, but it was filmed.
+Dialogue: 0,0:03:44.07,0:03:49.11,Default,,0,0,0,,There was a cave under the hotel.
+Dialogue: 0,0:03:53.89,0:03:59.31,Default,,0,0,0,,I thought about the idea of\Nliving there as a human being.
+Dialogue: 0,0:04:00.81,0:04:02.91,Default,,0,0,0,,That's why I made this film.
+Dialogue: 0,0:04:04.37,0:04:05.49,Default,,0,0,0,,I'll suck up all your power.
+Dialogue: 0,0:04:07.03,0:04:13.35,Default,,0,0,0,,It was a lot harder than\NI've ever experienced.
+Dialogue: 0,0:04:18.11,0:04:20.47,Default,,0,0,0,,I always talked to the pumpkin.
+Dialogue: 0,0:04:23.41,0:04:25.71,Default,,0,0,0,,It was a long time.
+Dialogue: 0,0:04:27.33,0:04:34.89,Default,,0,0,0,,This time, I was in charge of\Nfilming in Romania for 10 days.
+Dialogue: 0,0:04:34.91,0:04:38.57,Default,,0,0,0,,We started filming in about three months.
+Dialogue: 0,0:04:40.87,0:04:44.71,Default,,0,0,0,,A lot of things happened\Nduring the three months of filming.
+Dialogue: 0,0:04:45.55,0:04:49.27,Default,,0,0,0,,I've only seen the first three episodes.
+Dialogue: 0,0:04:50.07,0:04:51.99,Default,,0,0,0,,When I saw it, I was so happy.
+Dialogue: 0,0:04:52.73,0:04:53.73,Default,,0,0,0,,Really?
+Dialogue: 0,0:04:54.87,0:04:57.35,Default,,0,0,0,,I thought, this is how it's done.
+Dialogue: 0,0:04:57.37,0:05:02.81,Default,,0,0,0,,I didn't have time to look\Nat the monitor during filming.
+Dialogue: 0,0:05:03.71,0:05:10.81,Default,,0,0,0,,I was moved when I\Nsaw it for the first time.
+Dialogue: 0,0:05:12.55,0:05:14.67,Default,,0,0,0,,What was the name of the place in the cave?
+Dialogue: 0,0:05:15.81,0:05:17.25,Default,,0,0,0,,Sarinator.
+Dialogue: 0,0:05:17.61,0:05:21.45,Default,,0,0,0,,It was an amusement park.
+Dialogue: 0,0:05:22.30,0:05:25.31,Default,,0,0,0,,There was a Ferris wheel in the basement.
+Dialogue: 0,0:05:25.33,0:05:26.97,Default,,0,0,0,,It wasn't that much of an amusement park.
+Dialogue: 0,0:05:28.21,0:05:32.99,Default,,0,0,0,,But it was a place where\Npeople dug up salt and made coal.
+Dialogue: 0,0:05:33.61,0:05:36.91,Default,,0,0,0,,Unlike coal, people never died.
+Dialogue: 0,0:05:39.17,0:05:41.21,Default,,0,0,0,,It was a place where\Neveryone was happy in history.
+Dialogue: 0,0:05:44.19,0:05:46.29,Default,,0,0,0,,The people who dug up\Nthe salt became healthier.
+Dialogue: 0,0:05:46.99,0:05:50.51,Default,,0,0,0,,Because they bathed in salt\Nevery day, their skin was shiny.
+Dialogue: 0,0:05:51.33,0:05:52.65,Default,,0,0,0,,It was the best place.
+Dialogue: 0,0:05:52.67,0:05:54.37,Default,,0,0,0,,It was also used for early treatment.
+Dialogue: 0,0:05:55.55,0:05:57.47,Default,,0,0,0,,Everyone who worked\Nthere lived a long life.
+Dialogue: 0,0:05:59.57,0:06:00.57,Default,,0,0,0,,I heard you were sick.
+Dialogue: 0,0:06:01.43,0:06:02.55,Default,,0,0,0,,But I caught a cold.
+Dialogue: 0,0:06:03.21,0:06:03.41,Default,,0,0,0,,We caught a cold.
+Dialogue: 0,0:06:03.85,0:06:05.65,Default,,0,0,0,,It's been a while since\Nwe went to Sarinator.
+Dialogue: 0,0:06:06.07,0:06:08.33,Default,,0,0,0,,I couldn't stop sneezing.
+Dialogue: 0,0:06:08.91,0:06:09.91,Default,,0,0,0,,It's become a habit.
+Dialogue: 0,0:06:11.25,0:06:14.21,Default,,0,0,0,,I heard you came back\Nfrom Romania with a cold.
+Dialogue: 0,0:06:14.69,0:06:16.19,Default,,0,0,0,,No, I didn't.
+Dialogue: 0,0:06:16.21,0:06:18.05,Default,,0,0,0,,It's a joke, isn't it?
+Dialogue: 0,0:06:21.19,0:06:23.99,Default,,0,0,0,,It was hell for the staff in Romania.
+Dialogue: 0,0:06:24.07,0:06:25.75,Default,,0,0,0,,It was more difficult than for the actors.
+Dialogue: 0,0:06:27.81,0:06:32.13,Default,,0,0,0,,The assistant director, who had a\Nlot of experience, came from Japan.
+Dialogue: 0,0:06:32.99,0:06:37.15,Default,,0,0,0,,But she was crying because it was\Nthe hardest thing she had ever done.
+Dialogue: 0,0:06:38.07,0:06:39.27,Default,,0,0,0,,It was that hard.
+Dialogue: 0,0:06:39.77,0:06:41.09,Default,,0,0,0,,Especially in the cave,
+Dialogue: 0,0:06:41.11,0:06:44.23,Default,,0,0,0,,there were a lot of stairs.
+Dialogue: 0,0:06:46.77,0:06:49.13,Default,,0,0,0,,The underground was really deep.
+Dialogue: 0,0:06:50.19,0:06:52.87,Default,,0,0,0,,The staff climbed it over and over again.
+Dialogue: 0,0:06:53.93,0:06:56.11,Default,,0,0,0,,I climbed it over and over again.
+Dialogue: 0,0:06:56.71,0:07:00.67,Default,,0,0,0,,For example, the Sunshine Building.
+Dialogue: 0,0:07:01.01,0:07:05.47,Default,,0,0,0,,It was so scary that I had\Nto do it over and over again.
+Dialogue: 0,0:07:05.49,0:07:06.63,Default,,0,0,0,,That's how scary it was.
+Dialogue: 0,0:07:07.71,0:07:09.47,Default,,0,0,0,,Did you speak Romanian?
+Dialogue: 0,0:07:10.67,0:07:12.49,Default,,0,0,0,,Yes, I did.
+Dialogue: 0,0:07:13.25,0:07:18.85,Default,,0,0,0,,At first, I was told that I couldn't do it.
+Dialogue: 0,0:07:20.37,0:07:22.09,Default,,0,0,0,,I was told that on the first or second day.
+Dialogue: 0,0:07:23.59,0:07:25.65,Default,,0,0,0,,But I got better quickly.
+Dialogue: 0,0:07:26.25,0:07:27.25,Default,,0,0,0,,It was great.
+Dialogue: 0,0:07:27.75,0:07:28.75,Default,,0,0,0,,It was difficult.
+Dialogue: 0,0:07:29.11,0:07:30.91,Default,,0,0,0,,It's a language I've never heard before.
+Dialogue: 0,0:07:31.77,0:07:33.43,Default,,0,0,0,,There were a lot of Romanian lines.
+Dialogue: 0,0:07:33.45,0:07:35.37,Default,,0,0,0,,I had a hard time memorizing it.
+Dialogue: 0,0:07:36.27,0:07:38.57,Default,,0,0,0,,I heard that the locals were also Romanian.
+Dialogue: 0,0:07:39.73,0:07:41.67,Default,,0,0,0,,That's what I heard.
+Dialogue: 0,0:07:41.69,0:07:45.43,Default,,0,0,0,,I was really moved when I first saw it.
+Dialogue: 0,0:07:47.25,0:07:48.81,Default,,0,0,0,,I was especially moved by the entrance.
+Dialogue: 0,0:07:52.05,0:07:54.15,Default,,0,0,0,,You should have made a better set.
+Dialogue: 0,0:07:56.25,0:07:57.25,Default,,0,0,0,,But it was great.
+Dialogue: 0,0:07:57.51,0:07:58.69,Default,,0,0,0,,It was great.
+Dialogue: 0,0:07:59.49,0:08:02.09,Default,,0,0,0,,The hotel rooms were also well-made.
+Dialogue: 0,0:08:04.87,0:08:06.87,Default,,0,0,0,,The colors of the rooms were amazing.
+Dialogue: 0,0:08:07.59,0:08:09.05,Default,,0,0,0,,The rooms were blue and yellow.
+Dialogue: 0,0:08:10.47,0:08:15.93,Default,,0,0,0,,If I had to choose, I would definitely\Nchoose a hotel room with no colors.
+Dialogue: 0,0:08:16.85,0:08:18.23,Default,,0,0,0,,I couldn't imagine how much it would cost.
+Dialogue: 0,0:08:18.25,0:08:26.25,Default,,0,0,0,,I couldn't imagine how much it would cost.
+Dialogue: 0,0:08:30.63,0:08:31.63,Default,,0,0,0,,I couldn't afford it.
+Dialogue: 0,0:08:34.43,0:08:36.13,Default,,0,0,0,,That's what I thought.
+Dialogue: 0,0:08:37.59,0:08:39.89,Default,,0,0,0,,I wanted to do more in terms of art.
+Dialogue: 0,0:08:40.65,0:08:43.01,Default,,0,0,0,,But I could do it in terms of acting.
+Dialogue: 0,0:08:43.03,0:08:46.17,Default,,0,0,0,,I couldn't do it in terms\Nof Japanese scenery.
+Dialogue: 0,0:08:47.41,0:08:52.69,Default,,0,0,0,,The reality of Japanese scenery is amazing.
+Dialogue: 0,0:08:53.87,0:08:56.65,Default,,0,0,0,,So I couldn't show\Nthe exterior of the hotel.
+Dialogue: 0,0:08:57.79,0:09:01.57,Default,,0,0,0,,If I did that, the exterior of the hotel\Nwould be overshadowed by Japanese scenery.
+Dialogue: 0,0:09:02.67,0:09:06.51,Default,,0,0,0,,Then the reality would be boring.
+Dialogue: 0,0:09:08.11,0:09:10.71,Default,,0,0,0,,Let's start with the balcony frame.
+Dialogue: 0,0:09:14.40,0:09:16.04,Default,,0,0,0,,When I was asked to act as Manami,
+Dialogue: 0,0:09:19.34,0:09:21.08,Default,,0,0,0,,I was asked to act as Bozu.
+Dialogue: 0,0:09:23.90,0:09:25.04,Default,,0,0,0,,I was surprised.
+Dialogue: 0,0:09:26.18,0:09:32.20,Default,,0,0,0,,But the scene where the wig was\Ntaken at the bar was very interesting.
+Dialogue: 0,0:09:32.36,0:09:34.72,Default,,0,0,0,,It was a shocking scene even for me.
+Dialogue: 0,0:09:36.08,0:09:39.18,Default,,0,0,0,,As a result, I was glad to act as Bozu.
+Dialogue: 0,0:09:40.40,0:09:43.70,Default,,0,0,0,,Mr. Sono also acted\Nas Bozu on the first day.
+Dialogue: 0,0:09:43.72,0:09:45.68,Default,,0,0,0,,On the first day when I\Nwas asked to act as Bozu.
+Dialogue: 0,0:09:46.36,0:09:47.44,Default,,0,0,0,,The real thing.
+Dialogue: 0,0:09:50.34,0:09:51.34,Default,,0,0,0,,Hurry up.
+Dialogue: 0,0:09:53.28,0:09:57.26,Default,,0,0,0,,I'm going to show my\Nlove for Ami with my hair.
+Dialogue: 0,0:09:59.88,0:10:01.64,Default,,0,0,0,,It's a hair-style.
+Dialogue: 0,0:10:03.48,0:10:04.92,Default,,0,0,0,,I was trying to act as Bozu.
+Dialogue: 0,0:10:05.86,0:10:06.86,Default,,0,0,0,,Then I caught a cold.
+Dialogue: 0,0:10:08.00,0:10:09.54,Default,,0,0,0,,I was cold and my head was...
+Dialogue: 0,0:10:09.56,0:10:10.84,Default,,0,0,0,,I was cold and my head was Bozu.
+Dialogue: 0,0:10:11.50,0:10:12.50,Default,,0,0,0,,Are you okay?
+Dialogue: 0,0:10:17.00,0:10:20.26,Default,,0,0,0,,I acted as Bozu on the first day.
+Dialogue: 0,0:10:21.26,0:10:22.26,Default,,0,0,0,,You can't fail.
+Dialogue: 0,0:10:23.24,0:10:24.36,Default,,0,0,0,,Of course I can't fail.
+Dialogue: 0,0:10:24.78,0:10:26.22,Default,,0,0,0,,It was my first time to act as Bozu.
+Dialogue: 0,0:10:26.64,0:10:29.86,Default,,0,0,0,,I don't think I'll do it again in my life.
+Dialogue: 0,0:10:31.32,0:10:33.52,Default,,0,0,0,,I wanted to act as Bozu on the first day.
+Dialogue: 0,0:10:35.48,0:10:36.50,Default,,0,0,0,,I was surprised.
+Dialogue: 0,0:10:38.54,0:10:40.22,Default,,0,0,0,,I was motivated.
+Dialogue: 0,0:10:50.16,0:10:56.14,Default,,0,0,0,,How many people died in just a\Nfew minutes of the first episode?
+Dialogue: 0,0:10:56.96,0:10:59.26,Default,,0,0,0,,A lot of people died in just one episode.
+Dialogue: 0,0:11:05.62,0:11:08.22,Default,,0,0,0,,You've never played such an\Nintense role before, have you?
+Dialogue: 0,0:11:08.62,0:11:09.62,Default,,0,0,0,,No, it's my first time.
+Dialogue: 0,0:11:10.62,0:11:16.48,Default,,0,0,0,,You killed a lot of people in an hour.
+Dialogue: 0,0:11:17.32,0:11:18.54,Default,,0,0,0,,I killed a lot of people.
+Dialogue: 0,0:11:18.60,0:11:19.60,Default,,0,0,0,,I killed a lot of people.
+Dialogue: 0,0:11:20.12,0:11:23.04,Default,,0,0,0,,Some people were beaten up.
+Dialogue: 0,0:11:23.94,0:11:24.94,Default,,0,0,0,,That's right.
+Dialogue: 0,0:11:26.74,0:11:27.84,Default,,0,0,0,,Some people were beaten up.
+Dialogue: 0,0:11:27.86,0:11:34.06,Default,,0,0,0,,I think there were a lot of memorable\Nepisodes during the shooting.
+Dialogue: 0,0:11:34.45,0:11:35.45,Default,,0,0,0,,That's right.
+Dialogue: 0,0:11:36.12,0:11:38.20,Default,,0,0,0,,I did a lot of things.
+Dialogue: 0,0:11:38.22,0:11:39.22,Default,,0,0,0,,I did a lot of things.
+Dialogue: 0,0:11:39.50,0:11:43.20,Default,,0,0,0,,I had to follow the order\Nfrom the first episode.
+Dialogue: 0,0:11:44.72,0:11:46.14,Default,,0,0,0,,Every day.
+Dialogue: 0,0:11:47.00,0:11:48.86,Default,,0,0,0,,I was obviously tired in the second half.
+Dialogue: 0,0:11:49.64,0:11:50.64,Default,,0,0,0,,That's right.
+Dialogue: 0,0:11:53.34,0:11:58.02,Default,,0,0,0,,I couldn't get up at the end.
+Dialogue: 0,0:11:59.24,0:12:00.62,Default,,0,0,0,,I didn't have much time to sleep.
+Dialogue: 0,0:12:00.88,0:12:03.37,Default,,0,0,0,,{\pos(919,225)\c&H0606B1&} {\b1}{\an8}The filming of the climax\Nof the movie was intense.{\b0}
+Dialogue: 0,0:12:03.68,0:12:05.74,Default,,0,0,0,,I've always wanted to\Nshoot a vampire movie.
+Dialogue: 0,0:12:06.58,0:12:08.06,Default,,0,0,0,,I didn't think it would be this hard.
+Dialogue: 0,0:12:10.90,0:12:11.90,Default,,0,0,0,,It was hard.
+Dialogue: 0,0:12:12.88,0:12:15.18,Default,,0,0,0,,It was a sea of blood in the second half.
+Dialogue: 0,0:12:15.24,0:12:17.98,Default,,0,0,0,,A lot of staff members fell and slipped.
+Dialogue: 0,0:12:20.84,0:12:23.62,Default,,0,0,0,,I don't remember much about the shooting.
+Dialogue: 0,0:12:25.86,0:12:31.52,Default,,0,0,0,,I didn't know what would happen to\Nme and Kei at the end of the 7th episode.
+Dialogue: 0,0:12:31.54,0:12:33.34,Default,,0,0,0,,I didn't know until just\Nbefore the shooting.
+Dialogue: 0,0:12:34.14,0:12:35.62,Default,,0,0,0,,I didn't write it in the script.
+Dialogue: 0,0:12:36.14,0:12:39.80,Default,,0,0,0,,We talked about what would\Nhappen to us in the middle of the night.
+Dialogue: 0,0:12:41.08,0:12:42.60,Default,,0,0,0,,I was worried about what would happen.
+Dialogue: 0,0:12:43.36,0:12:47.02,Default,,0,0,0,,I don't know when the shooting will end.
+Dialogue: 0,0:12:47.04,0:12:48.84,Default,,0,0,0,,I couldn't see the end.
+Dialogue: 0,0:12:50.44,0:12:51.50,Default,,0,0,0,,I was really worried.
+Dialogue: 0,0:12:52.60,0:12:55.34,Default,,0,0,0,,At first, I was shooting\Nuntil the 5th episode.
+Dialogue: 0,0:12:55.36,0:13:00.52,Default,,0,0,0,,After that, I wrote that I was fighting.
+Dialogue: 0,0:13:01.48,0:13:02.76,Default,,0,0,0,,I didn't know what would happen.
+Dialogue: 0,0:13:04.76,0:13:09.70,Default,,0,0,0,,If the human team dies\Nonce, it's all up there.
+Dialogue: 0,0:13:10.06,0:13:11.06,Default,,0,0,0,,Everyone was so nervous.
+Dialogue: 0,0:13:11.78,0:13:13.14,Default,,0,0,0,,I didn't know where the order was.
+Dialogue: 0,0:13:14.00,0:13:15.60,Default,,0,0,0,,I was wondering when I was going to die.
+Dialogue: 0,0:13:16.56,0:13:18.04,Default,,0,0,0,,I've been hit in the face many times.
+Dialogue: 0,0:13:18.60,0:13:20.28,Default,,0,0,0,,I've been hit many times.
+Dialogue: 0,0:13:20.48,0:13:23.28,Default,,0,0,0,,Have you ever done a\Nlanding scene like that?
+Dialogue: 0,0:13:24.04,0:13:24.80,Default,,0,0,0,,It's my first time.
+Dialogue: 0,0:13:24.82,0:13:25.36,Default,,0,0,0,,It's your first time?
+Dialogue: 0,0:13:25.40,0:13:26.40,Default,,0,0,0,,Yes, it's my first time.
+Dialogue: 0,0:13:26.62,0:13:28.14,Default,,0,0,0,,How many times did you get hit?
+Dialogue: 0,0:13:29.10,0:13:30.38,Default,,0,0,0,,It must have hurt a lot.
+Dialogue: 0,0:13:31.52,0:13:34.82,Default,,0,0,0,,I landed in the middle of Toyohashi.
+Dialogue: 0,0:13:42.36,0:13:44.68,Default,,0,0,0,,I was really desperate.
+Dialogue: 0,0:13:46.82,0:13:48.34,Default,,0,0,0,,Was it cold there?
+Dialogue: 0,0:13:48.60,0:13:49.60,Default,,0,0,0,,It was still cold.
+Dialogue: 0,0:13:49.90,0:13:52.04,Default,,0,0,0,,It was around the beginning of November.
+Dialogue: 0,0:13:52.06,0:13:55.34,Default,,0,0,0,,I drank a lot when I went\Nto Toyohashi for three days.
+Dialogue: 0,0:13:56.18,0:13:57.36,Default,,0,0,0,,I ate a lot.
+Dialogue: 0,0:13:57.68,0:13:59.08,Default,,0,0,0,,I didn't think I would be a sniper.
+Dialogue: 0,0:14:01.36,0:14:02.52,Default,,0,0,0,,I've been through that a lot.
+Dialogue: 0,0:14:03.60,0:14:05.36,Default,,0,0,0,,You can't do that kind\Nof shooting in Japan.
+Dialogue: 0,0:14:06.62,0:14:08.22,Default,,0,0,0,,In Japan, you can't do that.
+Dialogue: 0,0:14:09.60,0:14:11.90,Default,,0,0,0,,In Japan, you can't do that.
+Dialogue: 0,0:14:11.92,0:14:13.48,Default,,0,0,0,,You can't shoot in a shopping district.
+Dialogue: 0,0:14:15.38,0:14:16.32,Default,,0,0,0,,You can't shoot in a shopping district.
+Dialogue: 0,0:14:16.34,0:14:17.90,Default,,0,0,0,,You can't shoot in a shopping district.
+Dialogue: 0,0:14:23.18,0:14:28.44,Default,,0,0,0,,Thank you for your hard work.
+Dialogue: 0,0:14:30.14,0:14:38.14,Default,,0,0,0,,It was really hard.
+Dialogue: 0,0:14:43.13,0:14:45.07,Default,,0,0,0,,I didn't have much time to practice.
+Dialogue: 0,0:14:46.15,0:14:48.17,Default,,0,0,0,,The setting was strong.
+Dialogue: 0,0:14:49.09,0:14:51.27,Default,,0,0,0,,I used a gun and a sword.
+Dialogue: 0,0:14:53.49,0:14:56.81,Default,,0,0,0,,It's a unique action\NI've never seen before.
+Dialogue: 0,0:14:58.37,0:14:59.99,Default,,0,0,0,,It was really hard.
+Dialogue: 0,0:15:00.89,0:15:02.49,Default,,0,0,0,,I can't help it.
+Dialogue: 0,0:15:02.89,0:15:04.25,Default,,0,0,0,,I can't help it.
+Dialogue: 0,0:15:04.27,0:15:05.63,Default,,0,0,0,,I have to do it.
+Dialogue: 0,0:15:08.01,0:15:09.75,Default,,0,0,0,,Kao is...
+Dialogue: 0,0:15:09.77,0:15:12.03,Default,,0,0,0,,I think it's because it's a hard role.
+Dialogue: 0,0:15:14.95,0:15:17.59,Default,,0,0,0,,Kao is a completely different person.
+Dialogue: 0,0:15:17.97,0:15:20.85,Default,,0,0,0,,I was surprised.
+Dialogue: 0,0:15:21.33,0:15:22.33,Default,,0,0,0,,I was surprised.
+Dialogue: 0,0:15:22.43,0:15:25.59,Default,,0,0,0,,But I was really happy to\Nbe invited to his work again.
+Dialogue: 0,0:15:34.27,0:15:36.27,Default,,0,0,0,,That's why I'm...
+Dialogue: 0,0:15:43.83,0:15:45.77,Default,,0,0,0,,You've come to the end.
+Dialogue: 0,0:15:47.33,0:15:48.33,Default,,0,0,0,,I've come to the end.
+Dialogue: 0,0:15:49.23,0:15:52.75,Default,,0,0,0,,That's why I'm here now.
+Dialogue: 0,0:15:55.93,0:15:56.93,Default,,0,0,0,,I was tired.
+Dialogue: 0,0:15:58.55,0:15:59.99,Default,,0,0,0,,I was like, do your best.
+Dialogue: 0,0:16:00.93,0:16:02.41,Default,,0,0,0,,I was like, do your best.
+Dialogue: 0,0:16:02.43,0:16:04.77,Default,,0,0,0,,It was really hard.
+Dialogue: 0,0:16:06.59,0:16:11.05,Default,,0,0,0,,It's good to see a man\Nand a woman fighting.
+Dialogue: 0,0:16:13.69,0:16:14.69,Default,,0,0,0,,It's rare.
+Dialogue: 0,0:16:16.41,0:16:18.63,Default,,0,0,0,,It's my first time doing an action.
+Dialogue: 0,0:16:22.33,0:16:24.69,Default,,0,0,0,,It's really good.
+Dialogue: 0,0:16:33.45,0:16:41.45,Default,,0,0,0,,Manami's action is...
+Dialogue: 0,0:16:42.12,0:16:45.48,Default,,0,0,0,,I'm going to wake up and become a beast.
+Dialogue: 0,0:16:46.40,0:16:48.92,Default,,0,0,0,,It's a vampire, but it's a beast.
+Dialogue: 0,0:16:49.48,0:16:50.54,Default,,0,0,0,,The script says beast.
+Dialogue: 0,0:16:51.34,0:16:52.88,Default,,0,0,0,,I thought it was an animal.
+Dialogue: 0,0:16:54.30,0:16:57.04,Default,,0,0,0,,It's not a very polite action.
+Dialogue: 0,0:16:57.62,0:16:59.22,Default,,0,0,0,,It's an action that kills people.
+Dialogue: 0,0:16:59.24,0:17:00.92,Default,,0,0,0,,It's an action that takes a lot of energy.
+Dialogue: 0,0:17:01.36,0:17:03.38,Default,,0,0,0,,The wire was my first challenge.
+Dialogue: 0,0:17:04.24,0:17:06.00,Default,,0,0,0,,It was hard.
+Dialogue: 0,0:17:06.92,0:17:09.96,Default,,0,0,0,,It's not a very good action.
+Dialogue: 0,0:17:11.68,0:17:15.18,Default,,0,0,0,,As for the action,
+Dialogue: 0,0:17:18.00,0:17:19.28,Default,,0,0,0,,It wasn't that hard.
+Dialogue: 0,0:17:21.12,0:17:23.40,Default,,0,0,0,,I've lost my human heart.
+Dialogue: 0,0:17:23.42,0:17:28.82,Default,,0,0,0,,To be honest, I don't remember\Nwhen I woke up as a vampire.
+Dialogue: 0,0:17:29.28,0:17:32.82,Default,,0,0,0,,I don't know if I won or lost.
+Dialogue: 0,0:17:32.84,0:17:33.84,Default,,0,0,0,,I don't know what I did.
+Dialogue: 0,0:17:36.16,0:17:38.30,Default,,0,0,0,,I don't remember.
+Dialogue: 0,0:17:40.40,0:17:41.94,Default,,0,0,0,,It's okay.
+Dialogue: 0,0:18:01.64,0:18:02.80,Default,,0,0,0,,Now,
+Dialogue: 0,0:18:04.00,0:18:05.00,Default,,0,0,0,,With this scene,
+Dialogue: 0,0:18:05.72,0:18:06.72,Default,,0,0,0,,It's all up.
+Dialogue: 0,0:18:06.96,0:18:08.12,Default,,0,0,0,,Thank you for your hard work.
+Dialogue: 0,0:18:15.95,0:18:23.95,Default,,0,0,0,,One more time.
+Dialogue: 0,0:18:33.82,0:18:34.86,Default,,0,0,0,,Okay.
+Dialogue: 0,0:18:37.08,0:18:41.02,Default,,0,0,0,,In a word, this work...
+Dialogue: 0,0:18:41.04,0:18:42.88,Default,,0,0,0,,It's hard to see.
+Dialogue: 0,0:18:43.14,0:18:48.58,Default,,0,0,0,,But I've never experienced\Nthis scene before.
+Dialogue: 0,0:18:48.60,0:18:50.66,Default,,0,0,0,,It's a really amazing scene.
+Dialogue: 0,0:18:51.12,0:18:53.42,Default,,0,0,0,,I've only seen the first three episodes.
+Dialogue: 0,0:18:55.38,0:18:58.26,Default,,0,0,0,,I've never seen this before.
+Dialogue: 0,0:18:58.58,0:19:00.08,Default,,0,0,0,,It was a really shocking work.
+Dialogue: 0,0:19:01.20,0:19:04.26,Default,,0,0,0,,Mr. Matsumoto is\Nshooting an original drama.
+Dialogue: 0,0:19:05.60,0:19:07.10,Default,,0,0,0,,Romania shooting,
+Dialogue: 0,0:19:07.44,0:19:09.06,Default,,0,0,0,,And a gorgeous set, action.
+Dialogue: 0,0:19:10.32,0:19:12.98,Default,,0,0,0,,I think it's a drama that's\Nnever been done in Japan.
+Dialogue: 0,0:19:14.25,0:19:15.74,Default,,0,0,0,,I think you'll enjoy it.
+Dialogue: 0,0:19:16.54,0:19:17.82,Default,,0,0,0,,It's a fierce action scene.
+Dialogue: 0,0:19:18.32,0:19:20.90,Default,,0,0,0,,It's a vampire vs. human fight.
+Dialogue: 0,0:19:21.56,0:19:24.70,Default,,0,0,0,,There's a lot of things I can't say here.
+Dialogue: 0,0:19:27.58,0:19:31.76,Default,,0,0,0,,From the first episode to\Nthe third and fourth episodes,
+Dialogue: 0,0:19:33.40,0:19:35.30,Default,,0,0,0,,Kei, who played Kago-chan,
+Dialogue: 0,0:19:36.30,0:19:37.88,Default,,0,0,0,,Manami, who played me.
+Dialogue: 0,0:19:38.58,0:19:40.70,Default,,0,0,0,,I think it's one of the\Nhighlights of how it changes.
+Dialogue: 0,0:19:45.74,0:19:46.90,Default,,0,0,0,,The cast, including Mr. Kago,
+Dialogue: 0,0:19:48.58,0:19:49.60,Default,,0,0,0,,Mr. Sonoshino,
+Dialogue: 0,0:19:49.98,0:19:51.82,Default,,0,0,0,,It's a work that we\Nall made with our lives.
+Dialogue: 0,0:19:52.54,0:19:54.32,Default,,0,0,0,,I hope you'll enjoy it.
+Dialogue: 0,0:19:54.94,0:19:56.34,Default,,0,0,0,,I hope this will be an opportunity.
+Dialogue: 0,0:19:56.54,0:20:00.02,Default,,0,0,0,,I hope it will be an opportunity for\NJapanese net dramas to be interesting.
+Dialogue: 0,0:20:02.82,0:20:05.00,Default,,0,0,0,,Please watch Tokyo Vampire Hotel.
+Dialogue: 0,0:20:06.90,0:20:07.90,Default,,0,0,0,,Here we go.
+Dialogue: 0,0:20:08.58,0:20:09.58,Default,,0,0,0,,Okay.
+Dialogue: 0,0:20:09.80,0:20:10.80,Default,,0,0,0,,Okay.
+Dialogue: 0,0:20:11.66,0:20:12.80,Default,,0,0,0,,Thank you very much.
